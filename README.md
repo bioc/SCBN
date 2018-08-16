@@ -24,7 +24,7 @@ Please refer to the "SCBN.pdf" vignetee for detailed function
 instructions.
 
 # Reference
-1. Zhou Y, Zhu JD, Zhao MT, Zhang Bx, Jiang CF, and Yang XY. "Methylation-level 
+1. Zhou Y, Zhu JD, Zhao MT, Zhang BX, Jiang CF, and Yang XY. "Methylation-level 
 Inferences and Detection of Differential Methylation with Medip-seq Data". 
 Plos one. Accepted.
 
