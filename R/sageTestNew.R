@@ -46,7 +46,7 @@ sageTestNew<-function (x, y, lengthx, lengthy, n1, n2, scale)
   prob <- rate/(1+rate)
 
   if (any(big <- size > 10000)) {
-      ibig <- (seq_len(length(x)))[big]
+      ibig <- (seq_along(x))[big]
       for (i in ibig)
            pValue[i] <- chisq.test(matrix(c(x[i], y[i],
                                            nn-x[i], mm-y[i]), 2, 2))$p.value
