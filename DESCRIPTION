@@ -1,9 +1,8 @@
 Package: SCBN
 Type: Package
-Title: A novel normalization method and differential expression analysis of 
-    RNA-seq d between different species
-Version: 1.1.0
-Author: Yan Zhou
+Title: A statistical normalization method and differential expression analysis 
+     for RNA-seq data between different species
+Version: 1.1.01Author: Yan Zhou
 Maintainer: Yan Zhou <2160090406@email.szu.edu.cn>
 Description: This package provides a scale based normalization (SCBN) method to
     identify genes with differential expression between different species. It 
