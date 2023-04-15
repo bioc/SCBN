@@ -8,6 +8,7 @@ vignette: >
   %\VignetteIndexEntry{SCBN Tutorial}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
+  %\VignetteDepends{BiocManager}
 ---
 
 
